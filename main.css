@@ -16,3 +16,11 @@ a {
   background-position: center;
   border-radius: 100%;
 }
+
+li {
+  font-size: 36px; 
+}
+
+html {
+  background-color: SeaGreen;
+}
