@@ -1,3 +1,10 @@
 h1 {
-font-size: 24px; 
+font-size: 36px; 
+  color: SeaGreen;
+  font-family: Times;
+}
+
+p {
+  font-family: Georgia;
+  font-size: 18px;
 }
