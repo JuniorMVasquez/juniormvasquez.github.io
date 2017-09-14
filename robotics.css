@@ -1,5 +1,8 @@
 h1 {
 font-size: 72px;
+  background-color: Black;
+  color: SeaGreen;
+  font-family: Times;
 }
 
 p {
