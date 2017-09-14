@@ -1,149 +1,27 @@
-html, body {
-  margin: 0;
-}
-
-h1, h2, a {
-  font-family: 'Hello', sans-serif;
+h1 {
+font-size: 72px; 
+  color: SeaGreen;
+  font-family: Times;
+  text-allign: center;
+  background-color: Black; 
   text-transform: uppercase;
 }
 
 p {
-  font-family: New Times Roman, Arial, sans-serif; 
+  font-family: Georgia;
+  font-size: 24px;
+}
+a {
+  height: 50px;
+  width: 50px;
+  background-position: center;
+  border-radius: 100%;
 }
 
-.container {
-  max-width: 940px;
-  margin:90 auto;
+ul {
+  font-size: 36px; 
 }
 
-/* Main */
-.main {
-  text-align: center;
-  background: url("https://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg") no-repeat center center;
-  background-size: cover;
-  height: 600px;
-}
-
-.main .container {
-  position: relative;
-  top: 100px;
-}
-
-.main h1 {
-  color: #fff;
-  margin: 0;
-  font-size: 200px;
-}
-
-.main p {
-  color: #fff;
-  margin: 0 0 210px 0;
-  font-size: 18px;
-}
-
-.main .btn {
-  background-color: #1c1c1c;
-  color: #fff;
-  font-size: 18px;
-  padding: 8px 30px;
-  text-decoration: none;
-  display: inline-block;
-}
-
-/* Supporting */
-.supporting {
-  background-color: #1c1c1c;
-  padding: 50px 0 80px;
-  text-align: center;
-}
-
-.supporting .col {
-  float: left;
-  padding: 30px;
-  width: 28%;
-}
-
-.supporting h2 {
-  color: #ffa800;
-  font-size: 200px;
-  margin-bottom: 10px;
-}
-
-.clearfix {
-  clear: both;
-}
-
-.supporting p {
-  color: #efefef;
-  font-size: 12px;
-  line-height: 20px;
-  margin-bottom: 20px;
-}
-
-.supporting .btn {
-  background-color: #eee;
-  color: #1c1c1c;
-  font-size: 18px;
-  padding: 8px 30px;
-  text-decoration: none;
-  display: inline-block;
-}
-
-/* Feature */
-.feature {
-  background: url("https://s3.amazonaws.com/codecademy-content/projects/move/feature.jpg") no-repeat center center;
-  background-size: cover;
-  height: 600px;
-  text-align: center;
-}
-
-.feature .container {
-  position: relative;
-  top: 200px;
-}
-
-.feature h2 {
-  color: #fff;
-  font-size: 40px;
-  margin:0;
-  padding:50px 0 0;
-}
-
-/* Footer */
-.footer {
-  background: url("https://lh3.googleusercontent.com/dxWVJp8h9HfsfKrZcPVCN0vKGY6ONXJV3qkBvlL3Cr5WZKuUASatzbJKK0HGLZMjySsHLxZwV_eWY5PanOOhAnD2Y_NI76MsD6RAM3mI0g9Q7BP4ktteYF_zP_ld0zdLLrYyQ0kBDzYLdwV00opPdqvPpjMHgsE5mrCSE6dXmKEI5x38erGUO-YhQnvg9u6ldBCxUZOgiXMSN4ZeaaECQe7y7jgbKXobfYwCnQCoqeAEH_HXfdIZjXptjLcAujQk6kJRaS-p1aGYFB1pslE6_8qocMx0xWge40h-gNsBFx37HieUb5dVAxVZNrXWii9H1nsX4qGMqYEmuPLeWgmtUXL_cdjGrtVEuXHoV4SJwoQ5BQdGjSorhU0VoM0ebJ4dTxirhtPOM85NAFFhEgfLOJ4bUYwPnfavt4nGUOSqrVuWEsd1kYtgQV4P3m6vE8i6XDd4XI7YXYtqXcigH16e3MT-280l2yAZKR77K4hRug7x08bgrZNbsauJEqo1Uo4auEZ9YzVc6ILwVPyxqaoGLZ44mtaxtzejY0wrVGe0Zx7JWEzTVqxvQix1sSzfeG0mUIX4w7bfyFEGG3rjbSucBhbgiKo1_iwjwSmITDxI=w953-h597-no") no-repeat center center;
-  background-size: cover;
-  height: 10px;
-  text-align: center;
-}
-
-.footer .container {
-  position: relative;
-  top: 200px;
-}
-
-.footer h2 {
-  color: #fff;
-  font-size: 40px;
-  margin: 0 0 20px 0;
-  padding:50px 0 0;
-}
-
-.footer p {
-  color: #fff;
-  font-size: 18px;
-  margin: 0 0 20px 0;
-}
-
-.footer .btn {
-  background-color: #1c1c1c;
-  color: #fff;
-  font-size: 18px;
-  padding: 8px 30px;
-  text-decoration: none;
-  display: inline-block;
-}
-
-a.btn:hover {
-  background:#ffa800;
-  color:#000;
+html {
+  background-color: SeaGreen;
+]
