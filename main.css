@@ -1,12 +1,14 @@
 h1 {
-font-size: 36px; 
+font-size: 72px; 
   color: SeaGreen;
   font-family: Times;
+  position: center;
+  background-color: Black; 
 }
 
 p {
   font-family: Georgia;
-  font-size: 18px;
+  font-size: 24px;
 }
 a {
   height: 50px;
