@@ -1,0 +1,15 @@
+h1 {
+font-size: 72px; 
+color: SeaGreen;
+background-color: Black;
+}
+
+p {
+font-size: 36px; 
+font-family: Times;
+}
+
+ul {
+font-size: 36px;
+text-align: center;
+}
