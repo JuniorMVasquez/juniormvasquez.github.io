@@ -6,7 +6,7 @@ p {
 font-size: 36px;
 }
 
-.image {
+a, img {
 height: 50px
 width: 50px;
 }
@@ -14,4 +14,7 @@ width: 50px;
 ul {
   font-size: 36px;
   text-align: center;
+}
+ h2 {
+   font-size: 54px;
 }
