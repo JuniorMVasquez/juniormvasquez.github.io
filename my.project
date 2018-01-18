@@ -1,0 +1,12 @@
+<html>
+<body>
+<h1>My Project Proposal</h1>
+<link rel="stylesheet" type="text/css" href="main.css">
+<ul>
+  <li> <a href="/project.schedule.html"> Project Schedule</a></li>
+  <li> <a href="/project.budget.html"> Project Budget</a></li>
+  <li> <a href="/project.requirements"> Project Requirements</a></li>
+  <li> <a href="/project.updates"> Project Updates</a></li> 
+</ul>
+</body> 
+</html> 
