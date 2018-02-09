@@ -2,7 +2,7 @@ h1 {
 font-size: 72px; 
   color: SeaGreen;
   font-family: Times;
-  text-allign: center;
+  text-align: center;
   background-color: Black; 
   text-transform: uppercase;
   opacity: 0.5;
@@ -22,7 +22,6 @@ a {
   width: 50px;
   background-position: center;
   border-radius: 100%;
-  opacity: 0.5;
 }
 
 
@@ -44,13 +43,11 @@ ul.topnav li a {
 th {
   font-size: 42px;
   font-family: Arial;
-  opacity: 0.5;
   color: SeaGreen;
 }
 tr {
   font-size: 42px;
   font-family: Arial;
-  opacity: 0.5;
   color: SeaGreen;
 }
 
