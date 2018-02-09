@@ -5,6 +5,7 @@ font-size: 72px;
   text-allign: center;
   background-color: Black; 
   text-transform: uppercase;
+  opacity: 0.5;
 }
 
 p {
@@ -50,7 +51,7 @@ tr {
   font-family: Arial;
 }
 
-h1, body {
+body {
   background-image: url("http://newevolutiondesigns.com/images/freebies/nature-hd-background-22.jpg");
 }
-}
+
