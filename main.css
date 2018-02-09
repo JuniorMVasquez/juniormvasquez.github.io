@@ -12,16 +12,17 @@ p {
   font-family: Georgia;
   font-size: 36px;
   text-allign: center;
+  color: Sea Green;
 }
 
 a {
-  background-image: url("http://newevolutiondesigns.com/images/freebies/nature-hd-background-22.jpg");
   font-size: 42px;
   font-family: Arial;
   height: 50px;
   width: 50px;
   background-position: center;
   border-radius: 100%;
+  opacity: 0.5;
 }
 
 
@@ -41,14 +42,16 @@ ul.topnav li a {
 
 }
 th {
-  background-image: url("http://newevolutiondesigns.com/images/freebies/nature-hd-background-22.jpg");
   font-size: 42px;
   font-family: Arial;
+  opacity: 0.5;
+  color: SeaGreen;
 }
 tr {
-   background-image: url("http://newevolutiondesigns.com/images/freebies/nature-hd-background-22.jpg");
   font-size: 42px;
   font-family: Arial;
+  opacity: 0.5;
+  color: SeaGreen;
 }
 
 body {
