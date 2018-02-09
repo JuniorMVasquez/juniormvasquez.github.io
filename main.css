@@ -34,3 +34,7 @@ ul.topnav li a {
   transition: 0.3s; 
   font-size: 17px;
 } 
+ .content {
+   font-size: 36px;
+   font-family:Times New Roman; 
+}
