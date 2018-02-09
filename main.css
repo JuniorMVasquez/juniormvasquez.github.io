@@ -14,6 +14,9 @@ p {
 }
 
 a {
+  background-image: url("http://newevolutiondesigns.com/images/freebies/nature-hd-background-22.jpg");
+  font-size: 72px;
+  font-family: Arial;
   height: 50px;
   width: 50px;
   background-position: center;
@@ -36,4 +39,14 @@ ul.topnav li a {
 }
 body {
   background: #141E30;
+}
+th {
+  background-image: url("http://newevolutiondesigns.com/images/freebies/nature-hd-background-22.jpg");
+  font-size: 72px;
+  font-family: Arial;
+}
+tr {
+   background-image: url("http://newevolutiondesigns.com/images/freebies/nature-hd-background-22.jpg");
+  font-size: 72px;
+  font-family: Arial;
 }
