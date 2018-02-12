@@ -1,11 +1,10 @@
 h1 {
-font-size: 72px; 
-  color: White;
-  font-family: Times;
+  font-size: 42px; 
+  font-weight: 600;
+  color: white;
+  font-family: Georgia;
   text-align: center;
-  background-image: url("https://photos.google.com/photo/AF1QipOvWyrFdvoccX6ghF_AUntTx9ZwkdatwgAMtChR"); 
   text-transform: uppercase;
-  opacity: 0.5;
 }
 
 p {
@@ -54,4 +53,17 @@ tr {
 body {
   background-color: FFC333;
 }
-
+#banner {
+  background-image: url("http://www.onextrapixel.com/wp-content/uploads/2011/12/depth-170.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+}
+#banner .content h1 {
+  border: 3px solid white;
+  position: center;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto; 
+}
