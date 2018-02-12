@@ -1,9 +1,9 @@
 h1 {
 font-size: 72px; 
-  color: SeaGreen;
+  color: White;
   font-family: Times;
   text-align: center;
-  background-color: Black; 
+  background-image: url("https://photos.google.com/photo/AF1QipOvWyrFdvoccX6ghF_AUntTx9ZwkdatwgAMtChR"); 
   text-transform: uppercase;
   opacity: 0.5;
 }
@@ -52,6 +52,6 @@ tr {
 }
 
 body {
-  background-image: url("http://insight.jbs.cam.ac.uk/assets/2014_thinkers_kitson_worldeconomy2050-883x432.jpg");
+  background-color: FFC333;
 }
 
