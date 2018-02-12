@@ -8,3 +8,16 @@ h1 {
 body {
   background-color: FFC333;
 }
+#banner {
+  border: 3px solid white;
+  position: center;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto; 
+}
+#nav {
+  border: 3px solid white;
+  position: center;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto; 
