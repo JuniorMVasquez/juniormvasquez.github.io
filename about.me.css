@@ -1,7 +1,9 @@
 h1 {
-font-size: 72px; 
-color: SeaGreen;
-background-color: Black;
+  border: 3px solid white;
+  position: center;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto; 
 }
 
 p {
@@ -15,6 +17,14 @@ text-align: center;
 }
 
 h2 {
-  font-size: 54px;
-  text-allign;
+  border: 3px solid white;
+  position: center;
+  top: 30px;
+  width: 300px;
+  margin: 0 auto; 
 }
+
+body{
+ background-color: FFC333;
+}
+
