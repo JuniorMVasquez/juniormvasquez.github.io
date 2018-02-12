@@ -1,12 +1,3 @@
-h1 {
-  font-size: 42px; 
-  font-weight: 600;
-  color: white;
-  font-family: Georgia;
-  text-align: center;
-  text-transform: uppercase;
-}
-
 p {
   font-family: Georgia;
   font-size: 36px;
@@ -14,35 +5,10 @@ p {
   color: Sea Green;
 }
 
-a {
-  font-size: 42px;
-  font-family: Arial;
-  height: 50px;
-  width: 50px;
-  background-position: center;
-  border-radius: 100%;
-} 
-
- .folder {
-   font-size: 42px;
-   font-family: Arial; 
-}
-
-}
-th {
-  font-size: 42px;
-  font-family: Arial;
-  color: SeaGreen;
-}
-tr {
-  font-size: 42px;
-  font-family: Arial;
-  color: SeaGreen;
-}
-
 body {
   background-color: FFC333;
 }
+
 #banner {
   background-image: url("http://www.onextrapixel.com/wp-content/uploads/2011/12/depth-170.jpg");
   background-size: cover;
