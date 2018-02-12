@@ -9,7 +9,13 @@ font-famiily: Times;
 }
 
 h1 {
-font-family: Times;
-font-size: 48px;
+  border: 3px solid white;
+  position: center;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto; 
 }
 
+body {
+  background-color: FFC333;
+}
