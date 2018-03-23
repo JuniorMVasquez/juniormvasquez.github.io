@@ -3,7 +3,6 @@ h1 {
   position: center;
   top: 50px;
   width: 400px;
-  margin: 0 auto; 
 }
 body {
   background-color: FFC333;
@@ -17,6 +16,7 @@ th {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
   background-size: cover;
   background-position: bottom center;
-  height: 500%; 
-  width: 500%; 
+  height: 700px; 
+  width: 100%; 
+  margin: 0 auto;
 }
