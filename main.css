@@ -1,3 +1,6 @@
+body, html {
+  height: 100%;
+}
 h1 {
   border: 3px solid white;
   position: center;
@@ -16,6 +19,7 @@ th {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
   background-size: cover;
   background-position: bottom center;
+  background=-repeat: no-repeat;
   height: 700px; 
   width: 100%; 
 }
