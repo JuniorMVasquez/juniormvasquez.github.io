@@ -9,6 +9,7 @@ font-size: 36px;
 
 h1 {
   border: 3px solid white;
+  border-position: center; 
   position: center;
   top: 50px;
   width: 400px; 
