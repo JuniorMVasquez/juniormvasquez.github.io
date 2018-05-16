@@ -20,7 +20,7 @@ th {
   background-size: cover;
   background-position: bottom center;
   background=-repeat: no-repeat;
-  height: 700px; 
+  height: 100% 
   width: 100%; 
   margin: 100px 10px 100px 10px;
 }
